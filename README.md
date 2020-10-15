@@ -74,7 +74,7 @@ I've started my programming career by creating video games with Unity3D (I've cr
 </table>
 
 #### :poop: Skills
-At the moment of writing (year 2020), mine main skills are the following:
+At the moment of writing (year 2020), my main skills are the following:
 
 ##### :keyboard: Programming languages
 - Javascript (my favourite :100:)
