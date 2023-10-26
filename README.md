@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Oleksandr.
 
-I'm a software developer born in Ukraine, currently working in Italy (Milan).
+A software developer based in Milan, Italy. Even though my main role is frontend development using **React**, **Node**, **Typescript**, and **Next**, I frequently see my mansions shifting to fill whatever has to be done to achieve the goal (data analysis, backend development, or CI/CD).
 
-I've started my programming career by creating video games with Unity3D (I've created a couple of really bad games with no success). When I understood that it's difficult to live with cash I've made with my games (like 30 cents) I started working as a web developer. I've never had a well defined role, my mansions range from programming (both front-end and back-end) to setting up CI/CD and managing servers.
+In my free time I'm most likely working on a side project involving AI or game dev.
+
+You can reach me out via [email](oleksandrovsky@gmail.com), [Twitter](https://twitter.com/9zemian5) or [Linkedin](https://www.linkedin.com/in/oleksandr-demian/).
